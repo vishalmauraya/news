@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205993672932",
+    "project_id": "news-6c647",
+    "storage_bucket": "news-6c647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205993672932:android:96afad2f0a8170e2022cf1",
+        "android_client_info": {
+          "package_name": "com.Vishal_maurya.news"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMFoJbiMpGzalQiCYj7WT-vJSEZ16WcPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
